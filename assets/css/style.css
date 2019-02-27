@@ -1,0 +1,20 @@
+.jumbotron{
+  background-image: url(../imagas/hpfulq-1234.jpg);
+  width: 1200px;
+  
+ 
+}
+
+.display-4 {
+  font-weight: bolder;
+  color: rgb(8, 1, 1);
+  text-align: center;
+  margin-top: -64px;
+}
+
+.lead{
+  font-weight: bolder;
+  color: rgb(8, 1, 1);
+  text-align: center;
+  margin-top: -15px;
+}
